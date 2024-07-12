@@ -2,6 +2,6 @@
 {
     internal class Constants
     {
-        public const string Secret = "secret-token-1234";
+        public const string Secret = "<SecretoPlaceholder>";
     }
 }
